@@ -19,7 +19,7 @@ My journey in Machine Learning has been largely self-directed, taking advantage 
 1. [AI for Everyone by Andrew Ng on Coursera](https://www.coursera.org/learn/ai-for-everyone)
 2. [MIT Deep Learning series on YouTube](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
 3. [3Blue1Brown's Machine Learning principles on YouTube](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
-4. [Sebastian Lague's tutorials on creating a neural network](https://www.youtube.com/playlist?list=PLFt_AvWsXl0fnA91TcmkRyhhixX9CO3Lw)
+4. [Sebastian Lague's tutorials on creating a neural network](https://youtu.be/hfMk-kjRv4c)
 5. [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
 
 ## Future Plans
